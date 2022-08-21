@@ -1,7 +1,7 @@
 ### HOW TO RUN ON LOCAL HOST
 
 - Download/Clone this project
-- Run following commands on the terminal
+- Run following commands on the terminal in the project directory 
 
 `pip install -r requirements.txt`
 
