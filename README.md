@@ -1,10 +1,9 @@
 ### HOW TO RUN ON LOCAL HOST
 - Run following commands on the terminal
-<br>
-<code>
-    pip install -r requirements.txt <br>
-    python -m uvicorn server:app --reload
-</code>
+
+`pip install -r requirements.txt`
+
+`python -m uvicorn server:app --reload`
 
 <img height = "100px" src = "github-static/terminal.png">
 
